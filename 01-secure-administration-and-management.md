@@ -35,7 +35,7 @@ In this task, you'll explore Azure Monitor and examine the resource health of va
 
    ![](images/E1T1S3.png "search gateway")
 
-   >**Note:** Sometimes It may take time to show the healthly(green bar) status of the resorces as shown. Please try to do **refresh**. 
+   >**Note:** Sometimes it may take time to show the healthy (green bar) status of the resources as shown. Please try to do a **refresh**. 
 
 1. In this, each tile represents a resource's health. The tile displays the number of instances of that resource health deployed across all selected subscriptions. 
 
@@ -113,7 +113,7 @@ In this task, you'll learn how to access an Azure virtual machine using the Azur
  
       ![](images/conbast.png)
 
-      >**Note:** If the Connection is blocked by the browser, click on the **Pop-up (1)** button, select **Always allow pop-ups and redirects from https://portal.azure.com (2)** and then click on **Done (3)**.
+      >**Note:** If the Connection is blocked by the browser, click on the **Pop-up (1)** button, select **Always allow pop-ups and redirects from https://portal.azure.com (2)**, and then click on **Done (3)**.
 
        ![](images/updateimg-7.png)
  
@@ -121,7 +121,7 @@ In this task, you'll learn how to access an Azure virtual machine using the Azur
  
     ![](images1/allowpopup.png)
 
-### Task 4: Prepare the Network Watcher monitoring environment and Virtual network Flow
+### Task 4: Prepare the Network Watcher monitoring environment and Virtual Network Flow
 
 **Virtual network Diagnostic Logs** are platform logs in Azure that capture information about operations and events within an Azure Virtual Network (VNet) and its related resources (such as subnets, network security groups, and route tables).
 
@@ -145,7 +145,7 @@ In this task, you will create Virtual network flow logs and these configurations
 
     ![](images/nflcr.png)
 
-1. In the Create a flow log page, select the **default subscription (1)**, **Virtual network (2)** as Flow log type, select dropdown button beside **+ Select target resource (3)** then choose **Virtual network (4)** as a Select target resource.
+1. In the Create a flow log page, select the **default subscription (1)**, **Virtual network (2)** as Flow log type, select the dropdown button beside **+ Select target resource (3)**, then choose **Virtual network (4)** as a Select target resource.
 
     ![](images/flwtyp.png)
 

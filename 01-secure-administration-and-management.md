@@ -10,7 +10,7 @@ The topology capability of **Azure Network Watcher** allows you to view all the 
 
 **Azure Bastion** is a fully managed service provided by Microsoft Azure that enables secure and seamless Remote Desktop Protocol (RDP) and Secure Shell (SSH) access to virtual machines (VMs) within a virtual network (VNet) without the need for a public IP address or a virtual private network (VPN) connection.
 
-## Lab Objectives
+## Objectives
 
 You will be able to complete the following tasks:
 
@@ -19,7 +19,7 @@ You will be able to complete the following tasks:
 - Task 3: Secure Access via Bastion Host
 - Task 4: Prepare the Network Watcher monitoring environment and Virtual network Flow
   
-## Task 1: Network Health
+### Task 1: Network Health
 
 In this task, you'll explore Azure Monitor and examine the resource health of various deployed resources. 
 
@@ -53,7 +53,7 @@ In this task, you'll explore Azure Monitor and examine the resource health of va
 
     ![](images/E1T1S7.png "search gateway")
 
-## Task 2: Network Topology
+### Task 2: Network Topology
 
  In this task, you'll view resources in a Microsoft Azure virtual network and the relationships between the resources.
 
@@ -73,7 +73,7 @@ In this task, you'll explore Azure Monitor and examine the resource health of va
 
    ![](images/dtopo.png "search gateway")
 
-## Task 3: Secure Access via Bastion Host
+### Task 3: Secure Access via Bastion Host
 
 In this task, you'll learn how to access an Azure virtual machine using the Azure Bastion service.
 
@@ -121,7 +121,7 @@ In this task, you'll learn how to access an Azure virtual machine using the Azur
  
     ![](images1/allowpopup.png)
 
-## Task 4: Prepare the Network Watcher monitoring environment and Virtual network Flow
+### Task 4: Prepare the Network Watcher monitoring environment and Virtual network Flow
 
 **Virtual network Diagnostic Logs** are platform logs in Azure that capture information about operations and events within an Azure Virtual Network (VNet) and its related resources (such as subnets, network security groups, and route tables).
 
@@ -216,6 +216,6 @@ In this exercise, you have covered the following:
 - Secured Access via Bastion Host
 - Configured the Network Watcher monitoring environment and NSG Flow
 
-## Click on **Next >>** to proceed with next exercise.
+### Click on **Next >>** to proceed with next exercise.
 
 ![](./images/infra-app-security-lab1-49.png)
